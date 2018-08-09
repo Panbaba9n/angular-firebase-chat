@@ -3,7 +3,15 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  firebase: {
+    apiKey: "AIzaSyBZJkxW0I_RoIgrRgEIzP-gLasKiw5FT9Q",
+    authDomain: "muchatapp-f887a.firebaseapp.com",
+    databaseURL: "https://muchatapp-f887a.firebaseio.com",
+    projectId: "muchatapp-f887a",
+    storageBucket: "",
+    messagingSenderId: "850175346540"
+  }
 };
 
 /*

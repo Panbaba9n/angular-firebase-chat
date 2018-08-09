@@ -1,0 +1,7 @@
+button {
+  display: block;
+}
+
+button[disabled] {
+  background: #4C4C4C;
+}
